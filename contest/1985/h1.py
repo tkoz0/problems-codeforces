@@ -1,3 +1,4 @@
+# time limit with python3 but accepted with pypy3
 t = int(input())
 for _ in range(t):
     n,m = map(int,input().split())
